@@ -1,4 +1,4 @@
 # HackVictoria Logos
-These are the official HackVictoria logos. If you want to make some stickers or something, that'd be really cool. 
-<p>(Credits to Rashid for converting Simon's logo into vectors.)</p>
+This folder contains the official HackVictoria logos. Before committing time to editing/changing the logo, please confirm the changes with the rest of the team to ensure that everybody approves.
+<p>(Also, credits to Rashid for converting Simon's logo into vectors.)</p>
 <img src="logo-black.svg" width="150px" height="150px"> 
